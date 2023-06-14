@@ -3,5 +3,6 @@ Dominik Jelitto
 Matthäus Sommer
 Carsten Buch
 Nicole Fischer
+Dimitar Parushev
 Michel Frenken
 Frank Höfler
