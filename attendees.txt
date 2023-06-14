@@ -3,4 +3,5 @@ Dominik Jelitto
 Matthäus Sommer
 Carsten Buch
 Nicole Fischer
+Michel Frenken
 Frank Höfler
