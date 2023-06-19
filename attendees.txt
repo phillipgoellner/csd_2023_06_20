@@ -9,3 +9,4 @@ Frank Höfler
 Sean Akpanya
 Rene Haberstroh
 Tobias Weiss
+Guenther Effelsberg
